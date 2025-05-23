@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5397140091",
+    "project_id": "fir-dcdb3",
+    "storage_bucket": "fir-dcdb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5397140091:android:de28cf385d830a8566c8de",
+        "android_client_info": {
+          "package_name": "com.momen1223.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5397140091-klvs6abic4fm6a8jtq0t117phbr219cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momen1223.firebase2",
+            "certificate_hash": "da0244c5c42c9d0a40a6523966581d161e4ab368"
+          }
+        },
+        {
+          "client_id": "5397140091-h3adm2o10p0l8mrc3o5rqrdv18ikcpdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxVS_xhY8PsFFDHj5I69uYF7PjFPa4H-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5397140091-h3adm2o10p0l8mrc3o5rqrdv18ikcpdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
